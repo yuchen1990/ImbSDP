@@ -6,4 +6,4 @@ After running, the results can be find in Folder "output".
 To run:
 java -jar reImbPUB0.jar 
 
-wispcat@hotmail.com
+Email Yuchen GUO: heanyg@gmail.com
