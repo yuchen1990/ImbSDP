@@ -1,2 +1,6 @@
 # ImbSDP
-Imbalanced learning for software defect prediction
+Imbalanced learning for SDP
+List
+1.data sets
+2.jar program 
+3.analysis

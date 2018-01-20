@@ -1,3 +1,9 @@
 There must be "input", "output" and "data_sets.txt" in the folder.
+The jar program will first read data list in data_sets.txt,
+then find data in Folder "input".
+After running, the results can be find in Folder "output".
 
-java -jar reImbPUB0.jar to run
+To run:
+java -jar reImbPUB0.jar 
+
+wispcat@hotmail.com
