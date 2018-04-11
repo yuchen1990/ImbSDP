@@ -1,9 +1,9 @@
-# ImbSDP
-Imbalanced learning for SDP
+ImbSDP
 
-List
-1.data sets
-2.jar program 
-3.analysis
+This is the data to share for software defect prediction including:
+(i) 27 software defect data sets
+(ii) imbalanced learning java program 
+(iii) results and analysis scripts
 
-Email Yuchen GUO: heanyg@gmail.com
+
+If you have any question, please email: heanyg@gmail.com
