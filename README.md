@@ -19,6 +19,7 @@ Seven combinations from these three kinds of metrics are the seven types of data
 
 15 imbalanced learning methods were applied in our experment.
 The jar file is a typical java program.
+
 To run it in command line (with java environment):
 java -jar reImbPUB0.jar 
 
@@ -26,8 +27,12 @@ The program first read "data_sets.txt" to find the list of data sets.
 Then it loads data sets in Folder "input" and run the experiment of all learning methods.
 Last the results are written in Folder "output".
 
-## results and analysis scripts
+## Results and Analysis Scripts
 
-R code
+R code can be found in "scripts_for_paper.r"
 
-If you have any question, please email: heanyg@gmail.com
+File "Rallfun-v33.txt" contains statistical tools for R code.
+
+csv files are all data for analysis.
+
+If you have any question, please email: wispcat@stu.xjtu.edu.cn
