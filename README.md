@@ -21,11 +21,12 @@ Seven combinations from these three kinds of metrics are the seven types of data
 The jar file is a typical java program.
 
 To run it in command line (with java environment):
-java -jar reImbPUB0.jar 
+java -jar ImbSDP_v1.jar 
 
 The program first read "data_sets.txt" to find the list of data sets.
 Then it loads data sets in Folder "input" and run the experiment of all learning methods.
 Last the results are written in Folder "output".
+Please note that it may run for hours which depend on the size of data sets.
 
 ## Results and Analysis Scripts
 
@@ -34,5 +35,7 @@ R code can be found in "scripts_for_paper.r"
 File "Rallfun-v33.txt" contains statistical tools for R code.
 
 csv files are all data for analysis.
+
+## Contact Infomation
 
 If you have any question, please email: wispcat@stu.xjtu.edu.cn

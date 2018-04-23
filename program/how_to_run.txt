@@ -4,6 +4,6 @@ then find data in Folder "input".
 After running, the results can be find in Folder "output".
 
 To run:
-java -jar reImbPUB0.jar 
+java -jar ImbSDP_v1.jar 
 
-Email Yuchen GUO: heanyg@gmail.com
+Email Yuchen GUO: wispcat@hotmail.com
