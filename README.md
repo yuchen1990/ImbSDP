@@ -17,7 +17,7 @@ Seven combinations from these three kinds of metrics are the seven types of data
 
 ## Imbalanced learning java program 
 
-15 imbalanced learning methods were applied in our experment.
+16 imbalanced learning methods were applied in our experment.
 The jar file is a typical java program.
 
 To run it in command line (with java environment):
