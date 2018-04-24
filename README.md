@@ -30,7 +30,9 @@ Please note that it may run for hours which depend on the size of data sets.
 
 ## Results and Analysis Scripts
 
-R code can be found in "scripts_for_paper.r"
+"rawdata.r" merges all raw data to one file.
+
+Other R code can be found in "scripts_for_paper.r"
 
 File "Rallfun-v33.txt" contains statistical tools for R code.
 
